@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+p {
+  background-color: rgb(70, 70, 70);
+}
+p, div {
+  color: white;
+}
